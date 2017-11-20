@@ -1,1 +1,1 @@
-follow https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow
+follow https://github.com/yunjey/show-attend-and-tell
